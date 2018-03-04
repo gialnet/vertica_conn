@@ -50,8 +50,8 @@
 		</dependency>
         <dependency>
             <groupId>com.vertica</groupId>
-            <artifactId>vjdbc9</artifactId>
-            <version>9.0.1</version>
+            <artifactId>vjdbc8</artifactId>
+            <version>8.1.1</version>
             <scope>runtime</scope>
         </dependency>
 
